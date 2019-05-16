@@ -1,0 +1,9 @@
+
+part,
+section,
+chapter,
+book {
+    -oxy-foldable: true;
+      -oxy-folded: true;
+    -oxy-not-foldable-child: heading;
+}
